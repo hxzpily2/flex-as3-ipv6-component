@@ -1,0 +1,1 @@
+The IPv6Address class and IPv6AddressInput component provides suitable possibility to handle IPv6 addresses in flex/as3 application. It was born after spark version of IPv4Address component, which is based on Yahoo (Astra) IPv4Address component. It will be handful for application with specific behavior e.g. server configuration. So I was discouraged why it was not created early.
